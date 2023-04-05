@@ -1,9 +1,9 @@
 👋 Hi, 
-I’m **Wofai Eyong**, a data analyst, highly proficient in Python, SQL, Tableau and Excel. I am a graduate with a medical background, highly passionate about business growth and experienced in identifying challenges and fail proof solutions, using data for strategic decision making.
+I’m **Wofai Eyong**, a data analyst, highly proficient in Excel, Python, SQL, power bi, Tableau and DBT. I am a graduate with a medical background, highly passionate about business growth and experienced in identifying challenges and fail proof solutions, using data for strategic decision making.
 
- 👀  I’m interested in a permanent role with a company which needs my skills in data science as well as my passion for solving problems.
+ 👀  I’m interested in a permanent role with a company which needs my skills in data analytics as well as my passion for solving problems.
 
- 🌱  I’m currently learning DBT
+ 🌱  I’m currently learning Data warehousing and modelling
 
  💞️  I’m looking to collaborate on projects on Data analytics
 
